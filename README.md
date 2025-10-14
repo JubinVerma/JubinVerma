@@ -22,46 +22,77 @@
 
 ## 🚀 About Me
 
-```python
-class JubinVerma:
-    def __init__(self):
-        self.name = "Jubin Verma"
-        self.role = "Full Stack Developer & Data Analyst"
-        self.location = "Toronto, Ontario 🇨🇦"
-        self.education = "Computer Programming Diploma @ Seneca Polytechnic"
-        self.gpa = "3.7/4.0 | President's Honour List"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "C#", "Java", "JavaScript", "C++", "R", "SQL", "VBA"],
-            "data_analytics": ["Power BI", "Tableau", "Looker", "Pandas", "NumPy", "Scikit-learn"],
-            "databases": ["PostgreSQL", "MongoDB", "MySQL", "Oracle", "SQL Server", "Snowflake"],
-            "cloud": ["Azure", "AWS", "GCP", "BigQuery"],
-            "frameworks": ["React", "Node.js", ".NET", "Express", "Django", "Flask"],
-            "ml_ai": ["Predictive Modeling", "Clustering", "Neural Networks", "Decision Trees"],
-            "specialties": ["Financial Analysis", "Data Mining", "ETL", "Algorithm Design"]
-        }
-    
-    def current_focus(self):
-        return [
-            "🔭 Building ML-powered financial trading algorithms",
-            "📊 Creating data visualization dashboards with Power BI & Tableau",
-            "🤖 Developing autonomous robotics projects",
-            "🌱 Learning advanced cloud architectures & AI integration",
-            "💼 Open to Junior Developer | Data Analyst roles"
-        ]
-    
-    def get_achievements(self):
-        return {
-            "leadership": "President of Photography Club (500+ members, $6K budget)",
-            "academic": "President's Honour List - 4.0 GPA (Summer 2024)",
-            "hackathon": "UltraHack Runner-up - University of Toronto 2024",
-            "mentorship": "Peer Mentor - Helped 25+ students (30% retention boost)"
-        }
+<table>
+<tr>
+<td width="50%" valign="top">
 
-jubin = JubinVerma()
-print(f"Hi! I'm {jubin.name}, passionate about building scalable solutions! 🚀")
+### 👨‍💻 Who Am I?
+
+Hey! I'm **Jubin Verma**, a passionate **Full Stack Developer** and **Data Analyst** based in **Toronto, Ontario** 🇨🇦
+
+🎓 **Computer Programming Graduate** from Seneca Polytechnic  
+📊 **3.7 GPA** | President's Honour List  
+💼 **Open to:** Junior Developer & Data Analyst roles  
+🌍 **Work Authorization:** PGWP Valid until March 2026
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Quick Facts
+
+```yaml
+name: Jubin Verma
+role: Full Stack Developer & Data Analyst
+location: Toronto, ON 🇨🇦
+languages: [Python, C#, Java, JavaScript, SQL]
+interests: [ML, Financial Analytics, Cloud, Robotics]
+currently: Building trading algorithms & data dashboards
+available_for: Full-time | Contract | Co-op
 ```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🔥 What I'm Passionate About
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br/>
+<b>Full Stack Development</b><br/>
+Building scalable web apps from frontend to backend
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/area-chart.png" width="60"/><br/>
+<b>Data Analytics</b><br/>
+Turning raw data into actionable business insights
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/><br/>
+<b>Machine Learning</b><br/>
+Building predictive models & AI solutions
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/money-bag.png" width="60"/><br/>
+<b>Financial Tech</b><br/>
+Creating algorithmic trading systems
+</td>
+</tr>
+</table>
+
+### 📈 Current Focus
+
+🔭 Building ML-powered financial trading algorithms  
+📊 Creating real-time data visualization dashboards  
+🤖 Exploring robotics & IoT integrations  
+☁️ Learning advanced cloud architectures (Azure, AWS, GCP)  
+🌱 Deepening expertise in AI/ML and Big Data  
+💼 **Actively seeking Junior Developer | Data Analyst opportunities**
+
+</div>
 
 ---
 
@@ -266,7 +297,16 @@ Built fully autonomous robot in 48-hour challenge with team of 5. Achieved 85% s
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JubinVerma&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JubinVerma&theme=github-dark-blue&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubinVerma&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=repo-name" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubinVerma&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=css,html,scss&exclude_repo=repo-name" />
+
+### 💻 My Core Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=flat-square&logo=r&logoColor=white)
 
 </div>
 
@@ -322,6 +362,7 @@ University of Toronto 2024
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e90ff','primaryTextColor':'#fff','primaryBorderColor':'#1e90ff','lineColor':'#58a6ff','secondaryColor':'#0366d6','tertiaryColor':'#238636','fontSize':'16px'}}}%%
 mindmap
   root((Jubin Verma))
     Data Analytics
