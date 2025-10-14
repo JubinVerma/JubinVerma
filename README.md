@@ -190,71 +190,77 @@ Creating algorithmic trading systems
 
 ---
 
-## 📊 My Language Expertise
+## 💻 My Language Expertise
 
 <div align="center">
 
+### 🚀 Master Level Programming Skills
+
 <table>
 <tr>
-<td width="50%">
-
-### 💻 Most Used Languages
-
-**C++**  
-![C++](https://geps.dev/progress/85?dangerColor=00599C&warningColor=00599C&successColor=00599C)
-
-**Java**  
-![Java](https://geps.dev/progress/75?dangerColor=ED8B00&warningColor=ED8B00&successColor=ED8B00)
-
-**Python**  
-![Python](https://geps.dev/progress/70?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB)
-
-**HTML**  
-![HTML](https://geps.dev/progress/60?dangerColor=E34F26&warningColor=E34F26&successColor=E34F26)
-
-**CSS**  
-![CSS](https://geps.dev/progress/60?dangerColor=1572B6&warningColor=1572B6&successColor=1572B6)
-
-**JavaScript**  
-![JavaScript](https://geps.dev/progress/55?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E)
-
-**C#**  
-![C#](https://geps.dev/progress/50?dangerColor=239120&warningColor=239120&successColor=239120)
-
-**SQL**  
-![SQL](https://geps.dev/progress/45?dangerColor=4479A1&warningColor=4479A1&successColor=4479A1)
-
-**R**  
-![R](https://geps.dev/progress/35?dangerColor=276DC3&warningColor=276DC3&successColor=276DC3)
-
-</td>
-<td width="50%">
-
-### 🎯 Proficiency Levels
-
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
+<br/><b>C++</b>
 <br/>
-
-![C++](https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
+<img src="https://img.shields.io/badge/99%25-Expert-00599C?style=flat-square"/>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
+<br/><b>Java</b>
+<br/>
+<img src="https://img.shields.io/badge/99%25-Expert-ED8B00?style=flat-square"/>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+<br/><b>Python</b>
+<br/>
+<img src="https://img.shields.io/badge/98%25-Expert-3776AB?style=flat-square"/>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
+<br/><b>HTML5</b>
+<br/>
+<img src="https://img.shields.io/badge/97%25-Advanced-E34F26?style=flat-square"/>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
+<br/><b>CSS3</b>
+<br/>
+<img src="https://img.shields.io/badge/97%25-Advanced-1572B6?style=flat-square"/>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+<br/><b>JavaScript</b>
+<br/>
+<img src="https://img.shields.io/badge/96%25-Advanced-F7DF1E?style=flat-square"/>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#"/>
+<br/><b>C#</b>
+<br/>
+<img src="https://img.shields.io/badge/95%25-Advanced-239120?style=flat-square"/>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="SQL"/>
+<br/><b>SQL</b>
+<br/>
+<img src="https://img.shields.io/badge/95%25-Advanced-4479A1?style=flat-square"/>
 </td>
 </tr>
 </table>
+
+### 📊 Proficiency Overview
+
+```text
+██████████████████████████████████████████████████ C++          99% 
+██████████████████████████████████████████████████ Java         99%
+█████████████████████████████████████████████████  Python       98%
+████████████████████████████████████████████████   HTML5        97%
+████████████████████████████████████████████████   CSS3         97%
+███████████████████████████████████████████████    JavaScript   96%
+██████████████████████████████████████████████     C#           95%
+██████████████████████████████████████████████     SQL          95%
+```
 
 </div>
 
