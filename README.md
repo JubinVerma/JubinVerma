@@ -434,8 +434,6 @@ Built fully autonomous robot in 48-hour challenge with team of 5. Achieved 85% s
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JubinVerma&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JubinVerma&theme=github-dark-blue&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubinVerma&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=repo-name" />
-
 </div>
 
 ---
