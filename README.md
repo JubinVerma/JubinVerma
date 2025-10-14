@@ -394,7 +394,7 @@ University of Toronto 2024
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4285f4','primaryTextColor':'#fff','primaryBorderColor':'#4285f4','lineColor':'#34a853','secondaryColor':'#fbbc04','tertiaryColor':'#ea4335','noteBkgColor':'#9333ea','noteTextColor':'#fff','fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4285f4','primaryTextColor':'#fff','primaryBorderColor':'#4285f4','lineColor':'#34a853','secondaryColor':'#FFD700','tertiaryColor':'#ea4335','noteBkgColor':'#9333ea','noteTextColor':'#fff','fontSize':'16px'}}}%%
 mindmap
   root((Jubin Verma))
     Data Analytics
