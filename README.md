@@ -290,6 +290,53 @@ Creating algorithmic trading systems
 
 ---
 
+## 🎮 Game Development Projects
+
+<div align="center">
+
+### 🗡️ Gilva - 3D RPG Game Environment
+
+[![View on ArtStation](https://img.shields.io/badge/ArtStation-View_Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://jvcrown72.artstation.com/projects/y4GrAO)
+
+<img src="https://cdnb.artstation.com/p/assets/images/images/092/116/663/large/jubin-verma-2.webp?1758738234" alt="Gilva RPG Environment" width="80%">
+
+**🌴 Jungle Weapons Stall Environment**
+
+A fully realized 3D environment for an RPG game featuring a detailed weapons merchant stall nestled in a lush jungle setting. This project showcases advanced 3D modeling, texturing, and level design skills.
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/blender-3d.png" width="60"/><br/>
+<b>Modeled in Blender</b><br/>
+High-poly 3D assets with<br/>optimized topology
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/unity.png" width="60"/><br/>
+<b>Implemented in Unity</b><br/>
+Real-time lighting &<br/>interactive elements
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/unreal-engine.png" width="60"/><br/>
+<b>Enhanced in Unreal</b><br/>
+Advanced shaders &<br/>cinematic quality
+</td>
+</tr>
+</table>
+
+### 🎨 Skills Demonstrated
+![3D Modeling](https://img.shields.io/badge/3D_Modeling-Expert-FF6B6B?style=flat-square)
+![Level Design](https://img.shields.io/badge/Level_Design-Advanced-4ECDC4?style=flat-square)
+![Texturing](https://img.shields.io/badge/Texturing-Advanced-95E1D3?style=flat-square)
+![Game Engines](https://img.shields.io/badge/Game_Engines-Unity%20%7C%20Unreal-FFA500?style=flat-square)
+![Environment Art](https://img.shields.io/badge/Environment_Art-Expert-38B6FF?style=flat-square)
+
+**🔗 [View Full Project on ArtStation →](https://jvcrown72.artstation.com/projects/y4GrAO)**
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
