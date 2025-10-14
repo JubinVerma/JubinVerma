@@ -20,6 +20,53 @@
 
 ---
 
+## 🎮 Game Development Projects
+
+<div align="center">
+
+### 🗡️ Gilva - 3D RPG Game Environment
+
+[![View on ArtStation](https://img.shields.io/badge/ArtStation-View_Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://jvcrown72.artstation.com/projects/y4GrAO)
+
+<img src="https://cdnb.artstation.com/p/assets/images/images/092/116/663/large/jubin-verma-2.webp?1758738234" alt="Gilva RPG Environment" width="80%">
+
+**🌴 Jungle Weapons Stall Environment**
+
+A fully realized 3D environment for an RPG game featuring a detailed weapons merchant stall nestled in a lush jungle setting. This project showcases advanced 3D modeling, texturing, and level design skills.
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/blender-3d.png" width="60"/><br/>
+<b>Modeled in Blender</b><br/>
+High-poly 3D assets with<br/>optimized topology
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/unity.png" width="60"/><br/>
+<b>Implemented in Unity</b><br/>
+Real-time lighting &<br/>interactive elements
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/unreal-engine.png" width="60"/><br/>
+<b>Enhanced in Unreal</b><br/>
+Advanced shaders &<br/>cinematic quality
+</td>
+</tr>
+</table>
+
+### 🎨 Skills Demonstrated
+![3D Modeling](https://img.shields.io/badge/3D_Modeling-Expert-FF6B6B?style=flat-square)
+![Level Design](https://img.shields.io/badge/Level_Design-Advanced-4ECDC4?style=flat-square)
+![Texturing](https://img.shields.io/badge/Texturing-Advanced-95E1D3?style=flat-square)
+![Game Engines](https://img.shields.io/badge/Game_Engines-Unity%20%7C%20Unreal-FFA500?style=flat-square)
+![Environment Art](https://img.shields.io/badge/Environment_Art-Expert-38B6FF?style=flat-square)
+
+**🔗 [View Full Project on ArtStation →](https://jvcrown72.artstation.com/projects/y4GrAO)**
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 <table>
@@ -28,11 +75,11 @@
 
 ### 👨‍💻 Who Am I?
 
-Hey! I'm **Jubin Verma**, a passionate **Full Stack Developer** and **Data Analyst** based in **Toronto, Ontario** 🇨🇦
+Hey! I'm **Jubin Verma**, a versatile **Full Stack Developer**, **Data Analyst**, and **Game Developer** based in **Toronto, Ontario** 🇨🇦
 
 🎓 **Computer Programming Graduate** from Seneca Polytechnic  
 📊 **3.7 GPA** | President's Honour List  
-💼 **Open to:** Junior Developer & Data Analyst roles  
+💼 **Open to:** Junior Developer, Data Analyst & Game Developer roles  
 🌍 **Work Authorization:** PGWP Valid until March 2026
 
 </td>
@@ -42,11 +89,13 @@ Hey! I'm **Jubin Verma**, a passionate **Full Stack Developer** and **Data Analy
 
 ```yaml
 name: Jubin Verma
-role: Full Stack Developer & Data Analyst
+role: Full Stack Developer | Data Analyst | Game Developer
 location: Toronto, ON 🇨🇦
-languages: [Python, C#, Java, JavaScript, SQL]
-interests: [ML, Financial Analytics, Cloud, Robotics]
-currently: Building trading algorithms & data dashboards
+languages: [Python, C++, C#, Java, JavaScript, SQL]
+specialties: [Web Dev, ML, Financial Analytics, Game Dev]
+tools: [Unity, Unreal Engine, Blender, Power BI, AWS]
+interests: [3D Modeling, AI, Financial Tech, RPG Games]
+currently: Building trading algorithms & 3D game environments
 available_for: Full-time | Contract | Co-op
 ```
 
@@ -60,25 +109,30 @@ available_for: Full-time | Contract | Co-op
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br/>
 <b>Full Stack Development</b><br/>
 Building scalable web apps from frontend to backend
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/000000/area-chart.png" width="60"/><br/>
 <b>Data Analytics</b><br/>
 Turning raw data into actionable business insights
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/><br/>
 <b>Machine Learning</b><br/>
 Building predictive models & AI solutions
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/000000/money-bag.png" width="60"/><br/>
 <b>Financial Tech</b><br/>
 Creating algorithmic trading systems
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/console.png" width="60"/><br/>
+<b>Game Development</b><br/>
+3D environments & immersive experiences
 </td>
 </tr>
 </table>
@@ -87,10 +141,11 @@ Creating algorithmic trading systems
 
 🔭 Building ML-powered financial trading algorithms  
 📊 Creating real-time data visualization dashboards  
+🎮 Developing 3D game environments & RPG systems  
 🤖 Exploring robotics & IoT integrations  
 ☁️ Learning advanced cloud architectures (Azure, AWS, GCP)  
 🌱 Deepening expertise in AI/ML and Big Data  
-💼 **Actively seeking Junior Developer | Data Analyst opportunities**
+💼 **Actively seeking Junior Developer | Data Analyst | Game Developer opportunities**
 
 </div>
 
@@ -163,6 +218,11 @@ Creating algorithmic trading systems
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -307,17 +367,32 @@ Built fully autonomous robot in 48-hour challenge with team of 5. Achieved 85% s
 <tr>
 <td width="50%">
 
-```text
-C++           ████████████████████░   85%
-Java          ███████████████░░░░░   75%
-Python        ██████████████░░░░░░   70%
-HTML          ████████████░░░░░░░░   60%
-CSS           ████████████░░░░░░░░   60%
-JavaScript    ███████████░░░░░░░░░   55%
-C#            ██████████░░░░░░░░░░   50%
-SQL           █████████░░░░░░░░░░░   45%
-R             ███████░░░░░░░░░░░░░   35%
-```
+**C++**  
+![](https://geps.dev/progress/85?dangerColor=00599C&warningColor=00599C&successColor=00599C)
+
+**Java**  
+![](https://geps.dev/progress/75?dangerColor=ED8B00&warningColor=ED8B00&successColor=ED8B00)
+
+**Python**  
+![](https://geps.dev/progress/70?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB)
+
+**HTML**  
+![](https://geps.dev/progress/60?dangerColor=E34F26&warningColor=E34F26&successColor=E34F26)
+
+**CSS**  
+![](https://geps.dev/progress/60?dangerColor=1572B6&warningColor=1572B6&successColor=1572B6)
+
+**JavaScript**  
+![](https://geps.dev/progress/55?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E)
+
+**C#**  
+![](https://geps.dev/progress/50?dangerColor=239120&warningColor=239120&successColor=239120)
+
+**SQL**  
+![](https://geps.dev/progress/45?dangerColor=4479A1&warningColor=4479A1&successColor=4479A1)
+
+**R**  
+![](https://geps.dev/progress/35?dangerColor=276DC3&warningColor=276DC3&successColor=276DC3)
 
 </td>
 <td width="50%">
@@ -442,6 +517,7 @@ mindmap
 ### 🔭 Current Projects
 - 💹 Developing ML-powered trading algorithms
 - 📊 Building real-time analytics dashboards
+- 🎮 Creating 3D RPG game environments (Gilva)
 - 🤖 Exploring robotics & IoT integrations
 - ☁️ Learning advanced cloud architectures
 
@@ -451,6 +527,7 @@ mindmap
 ### 🌱 Learning & Growth
 - 🧠 Advanced Machine Learning techniques
 - ⚡ Real-time data processing at scale
+- 🎮 Advanced game mechanics & shader programming
 - 🔐 Cybersecurity & data protection
 - 📱 Mobile app development (React Native)
 
@@ -462,6 +539,7 @@ mindmap
 ### 👯 Open to Collaborate On
 - 🌐 Full-stack web applications
 - 📈 Data visualization projects
+- 🎮 Indie game development
 - 🤖 AI/ML implementations
 - 💼 Financial tech solutions
 
@@ -471,6 +549,7 @@ mindmap
 ### 💼 Career Opportunities
 - 💻 Junior Developer positions
 - 📊 Data Analyst roles
+- 🎮 Game Developer positions
 - 🔧 Full Stack Engineer
 - 🎯 Business Intelligence Analyst
 
