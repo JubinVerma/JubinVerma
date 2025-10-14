@@ -2,7 +2,7 @@
 
 # 👨‍💻 Jubin Verma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Data+Analyst+%7C+ML+Engineer+%F0%9F%93%8A;Financial+Data+Specialist+%F0%9F%92%B9;Database+Architect+%F0%9F%97%84%EF%B8%8F;Problem+Solver+%2B+Team+Leader+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Data+Analyst+%7C+ML+Engineer+%F0%9F%93%8A;Game+Developer+%7C+3D+Artist+%F0%9F%8E%AE;Financial+Data+Specialist+%F0%9F%92%B9;Database+Architect+%F0%9F%97%84%EF%B8%8F;Problem+Solver+%2B+Team+Leader+%F0%9F%8C%9F" alt="Typing SVG" />
 
 ### 🎓 Computer Programming Graduate | 3.7 GPA | President's Honour List
 ### 📍 Toronto, ON | 🇨🇦 Authorized to Work in Canada
@@ -10,58 +10,12 @@
 <p align="center">
   <a href="https://my-portfolio-website-lime-two.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jubinverma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jvcrown72.artstation.com/"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"/></a>
   <a href="mailto:jubinverma25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:6472812482"><img src="https://img.shields.io/badge/Call-00C853?style=for-the-badge&logo=phone&logoColor=white"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
----
-
-## 🎮 Game Development Projects
-
-<div align="center">
-
-### 🗡️ Gilva - 3D RPG Game Environment
-
-[![View on ArtStation](https://img.shields.io/badge/ArtStation-View_Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://jvcrown72.artstation.com/projects/y4GrAO)
-
-<img src="https://cdnb.artstation.com/p/assets/images/images/092/116/663/large/jubin-verma-2.webp?1758738234" alt="Gilva RPG Environment" width="80%">
-
-**🌴 Jungle Weapons Stall Environment**
-
-A fully realized 3D environment for an RPG game featuring a detailed weapons merchant stall nestled in a lush jungle setting. This project showcases advanced 3D modeling, texturing, and level design skills.
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/blender-3d.png" width="60"/><br/>
-<b>Modeled in Blender</b><br/>
-High-poly 3D assets with<br/>optimized topology
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/unity.png" width="60"/><br/>
-<b>Implemented in Unity</b><br/>
-Real-time lighting &<br/>interactive elements
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/unreal-engine.png" width="60"/><br/>
-<b>Enhanced in Unreal</b><br/>
-Advanced shaders &<br/>cinematic quality
-</td>
-</tr>
-</table>
-
-### 🎨 Skills Demonstrated
-![3D Modeling](https://img.shields.io/badge/3D_Modeling-Expert-FF6B6B?style=flat-square)
-![Level Design](https://img.shields.io/badge/Level_Design-Advanced-4ECDC4?style=flat-square)
-![Texturing](https://img.shields.io/badge/Texturing-Advanced-95E1D3?style=flat-square)
-![Game Engines](https://img.shields.io/badge/Game_Engines-Unity%20%7C%20Unreal-FFA500?style=flat-square)
-![Environment Art](https://img.shields.io/badge/Environment_Art-Expert-38B6FF?style=flat-square)
-
-**🔗 [View Full Project on ArtStation →](https://jvcrown72.artstation.com/projects/y4GrAO)**
 
 </div>
 
@@ -208,6 +162,11 @@ Creating algorithmic trading systems
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -219,11 +178,6 @@ Creating algorithmic trading systems
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
 ### 🧰 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -231,6 +185,76 @@ Creating algorithmic trading systems
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 My Language Expertise
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Most Used Languages
+
+**C++**  
+![C++](https://geps.dev/progress/85?dangerColor=00599C&warningColor=00599C&successColor=00599C)
+
+**Java**  
+![Java](https://geps.dev/progress/75?dangerColor=ED8B00&warningColor=ED8B00&successColor=ED8B00)
+
+**Python**  
+![Python](https://geps.dev/progress/70?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB)
+
+**HTML**  
+![HTML](https://geps.dev/progress/60?dangerColor=E34F26&warningColor=E34F26&successColor=E34F26)
+
+**CSS**  
+![CSS](https://geps.dev/progress/60?dangerColor=1572B6&warningColor=1572B6&successColor=1572B6)
+
+**JavaScript**  
+![JavaScript](https://geps.dev/progress/55?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E)
+
+**C#**  
+![C#](https://geps.dev/progress/50?dangerColor=239120&warningColor=239120&successColor=239120)
+
+**SQL**  
+![SQL](https://geps.dev/progress/45?dangerColor=4479A1&warningColor=4479A1&successColor=4479A1)
+
+**R**  
+![R](https://geps.dev/progress/35?dangerColor=276DC3&warningColor=276DC3&successColor=276DC3)
+
+</td>
+<td width="50%">
+
+### 🎯 Proficiency Levels
+
+<br/>
+
+![C++](https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -404,63 +428,7 @@ Built fully autonomous robot in 48-hour challenge with team of 5. Achieved 85% s
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JubinVerma&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JubinVerma&theme=github-dark-blue&hide_border=true" />
 
-## 📊 My Language Expertise
-
-<div align="center">
-
-### 💻 Most Used Languages
-
-<table>
-<tr>
-<td width="50%">
-
-**C++**  
-![](https://geps.dev/progress/85?dangerColor=00599C&warningColor=00599C&successColor=00599C)
-
-**Java**  
-![](https://geps.dev/progress/75?dangerColor=ED8B00&warningColor=ED8B00&successColor=ED8B00)
-
-**Python**  
-![](https://geps.dev/progress/70?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB)
-
-**HTML**  
-![](https://geps.dev/progress/60?dangerColor=E34F26&warningColor=E34F26&successColor=E34F26)
-
-**CSS**  
-![](https://geps.dev/progress/60?dangerColor=1572B6&warningColor=1572B6&successColor=1572B6)
-
-**JavaScript**  
-![](https://geps.dev/progress/55?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E)
-
-**C#**  
-![](https://geps.dev/progress/50?dangerColor=239120&warningColor=239120&successColor=239120)
-
-**SQL**  
-![](https://geps.dev/progress/45?dangerColor=4479A1&warningColor=4479A1&successColor=4479A1)
-
-**R**  
-![](https://geps.dev/progress/35?dangerColor=276DC3&warningColor=276DC3&successColor=276DC3)
-
-</td>
-<td width="50%">
-
-### 🎯 Proficiency Levels
-
-![C++](https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubinVerma&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=repo-name" />
 
 </div>
 
@@ -544,6 +512,11 @@ mindmap
       Neural Networks
       Decision Trees
       Data Mining
+    Game Development
+      3D Modeling
+      Unity & Unreal
+      Level Design
+      Environment Art
     Leadership
       Team Management
       Peer Mentoring
@@ -615,6 +588,7 @@ mindmap
 <p>
 <a href="https://my-portfolio-website-lime-two.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-4A90E2?style=for-the-badge"/></a>
 <a href="https://linkedin.com/in/jubinverma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://jvcrown72.artstation.com/"><img src="https://img.shields.io/badge/ArtStation-View_3D_Art-13AFF0?style=for-the-badge&logo=artstation"/></a>
 <a href="mailto:jubinverma25@gmail.com"><img src="https://img.shields.io/badge/Email-jubinverma25@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:6472812482"><img src="https://img.shields.io/badge/Phone-647--281--2482-00C853?style=for-the-badge&logo=phone&logoColor=white"/></a>
 </p>
