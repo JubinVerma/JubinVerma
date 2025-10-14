@@ -297,16 +297,48 @@ Built fully autonomous robot in 48-hour challenge with team of 5. Achieved 85% s
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JubinVerma&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JubinVerma&theme=github-dark-blue&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubinVerma&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=css,html,scss&exclude_repo=repo-name" />
+## 📊 My Language Expertise
 
-### 💻 My Core Languages
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=flat-square&logo=r&logoColor=white)
+<div align="center">
+
+### 💻 Most Used Languages
+
+<table>
+<tr>
+<td width="50%">
+
+```text
+C++           ████████████████████░   85%
+Java          ███████████████░░░░░   75%
+Python        ██████████████░░░░░░   70%
+HTML          ████████████░░░░░░░░   60%
+CSS           ████████████░░░░░░░░   60%
+JavaScript    ███████████░░░░░░░░░   55%
+C#            ██████████░░░░░░░░░░   50%
+SQL           █████████░░░░░░░░░░░   45%
+R             ███████░░░░░░░░░░░░░   35%
+```
+
+</td>
+<td width="50%">
+
+### 🎯 Proficiency Levels
+
+![C++](https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
 
@@ -362,7 +394,7 @@ University of Toronto 2024
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e90ff','primaryTextColor':'#fff','primaryBorderColor':'#1e90ff','lineColor':'#58a6ff','secondaryColor':'#0366d6','tertiaryColor':'#238636','fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4285f4','primaryTextColor':'#fff','primaryBorderColor':'#4285f4','lineColor':'#34a853','secondaryColor':'#fbbc04','tertiaryColor':'#ea4335','noteBkgColor':'#9333ea','noteTextColor':'#fff','fontSize':'16px'}}}%%
 mindmap
   root((Jubin Verma))
     Data Analytics
